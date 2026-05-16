@@ -1,5 +1,5 @@
 # Self-Controlled Delivery Robot
-[![Published in IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/abstract/document/11361499)
+[![Published in IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org/document/11409157/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](./LICENSE)
 
 ## 📄 Publication
